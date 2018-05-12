@@ -5,4 +5,4 @@ Detailed analysis of various customer review corresponding to the brand
 
 Predicting the customer review rating based on their text using simple logistic regression and TFIDF. 
 
-About 70% accuracy has been obtained
+About 70% accuracy has been obtained...time for a :pizza:
