@@ -5,4 +5,4 @@ Analysis and prediction of review rating from values :one: - :five:
 
 :diamonds: Predicting the customer review rating based on their text using simple logistic regression and TFIDF. 
 
-:diamonds: About 70% accuracy has been obtained
+:diamonds: Getting about 70% accuracy 
