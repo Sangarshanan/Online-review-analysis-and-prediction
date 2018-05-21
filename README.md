@@ -1,5 +1,5 @@
 # Online-review-analysis-and-prediction
-Analysis and prediction of review rating from values (:one: - :five:)
+Analysis and prediction of review rating from values ( :one: - :five: )
 
 :diamonds: Detailed analysis of various customer review corresponding to the brand
 
